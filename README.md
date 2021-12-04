@@ -2,4 +2,5 @@
 JavaScript Fase 1 Module 2 Museum Online
 ````
 
-[live view](https://33319.hosts1.ma-cloud.nl/f1m2js/web/)
+- [Opdracht 1: - Background Color](https://33319.hosts1.ma-cloud.nl/f1m2js/les1-background-color)
+- [Opdracht 2: - Boodschappen](http://33319.hosts1.ma-cloud.nl/f1m2js/les2-boodschappen/)
