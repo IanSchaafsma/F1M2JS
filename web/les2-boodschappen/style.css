@@ -25,7 +25,8 @@ button{
     background-color: lightblue;
     color: navy;
     font-size: 18px;
-    border: 2px solid black;    
+    border: 2px solid black;
+    margin-bottom: 10px;    
 }
 
 .oranje{
