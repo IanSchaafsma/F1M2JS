@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(29, 31, 122);
+}
+
+#container{
+    background-color: rgb(119, 192, 255);
+    width: 900px;
+    height: 600px;
+    margin: 50px auto auto auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    border: inset 2px gray;
+    border-radius: 10px;
+}
+
+#myInteraction{
+    padding: 10px;
+}
+
+#knop{
+    border: black 2px solid;
+    border-radius: 4px;
+    background-color: aliceblue;
+    width: 80px;
+    height: 30px;
+    transition: 0.150s transform;
+}
+
+#knop:hover{
+    background-color: rgb(204, 208, 212);
+    transform: scale(1.025);
+    border: black 1px solid;
+}
+
+#myInput{
+    border: black 2px solid;
+    border-radius: 4px;
+    background-color: aliceblue;
+    width: 120px;
+    height: 25px;
+}
+
