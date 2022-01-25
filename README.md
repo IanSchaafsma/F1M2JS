@@ -8,4 +8,4 @@ JavaScript Fase 1 Module 2 Museum Online
 - [Opdracht 4:  - Seizoenen](http://33319.hosts1.ma-cloud.nl/f1m2js/les4-seizoenen/)
 - [Opdracht 5:  - Silver-Bullet-Adventure](http://33319.hosts1.ma-cloud.nl/f1m2js/les5-silver-bullet-adventure/)
 
-[Portfolio JS -](http://33319.hosts1.ma-cloud.nl/f1m2js/Port-Folio%20JS/)
+[Portfolio JS - Klik hier](http://33319.hosts1.ma-cloud.nl/f1m2js/Port-Folio%20JS/)
